@@ -1,0 +1,1 @@
+This repo contains a common TypeScript error where a function expecting a string argument is passed an array of strings.  The error message is clear: 'Type 'string[]' is not assignable to type 'string'.  The solution demonstrates how to correctly handle this using either type assertion or function parameter type change.
